@@ -9,6 +9,6 @@
 * New app dependencies can be added in the `glide.yaml` file
 * To update dependcies after added in `glide.yml`, run `glide udpate` within the container
 
-##Credits
+## Credits
 * The Dockerfile was used from https://blog.hasura.io/the-ultimate-guide-to-writing-dockerfiles-for-go-web-apps-336efad7012c/
 * The app is being built from this tutorial: https://codegangsta.gitbooks.io/building-web-apps-with-go/content/index.html
