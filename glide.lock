@@ -1,0 +1,16 @@
+hash: 21f417855ec430463ae2563cbeece572c84857abca266189d378df4ee7dea9c3
+updated: 2019-11-13T16:03:14.581344971Z
+imports:
+- name: github.com/codegangsta/negroni
+  version: f4316798d5d3acd39eb6784301b19f27f471415f
+- name: github.com/julienschmidt/httprouter
+  version: 08a3b3d20bbeeab9ca4889bcdb65fec0423ef882
+- name: github.com/mattn/go-sqlite3
+  version: 67c1376b46fb54cb953532f136c9b8accefca46b
+- name: github.com/russross/blackfriday
+  version: a925a152c144ea7de0f451eaf2f7db9e52fa005a
+- name: gopkg.in/unrolled/render.v1
+  version: 7fc1b8f68b9beddc94385fd212c293caf729277a
+testImports:
+- name: github.com/arschles/assert
+  version: bb58b908265b5931732079df03f2818bf2167ba0
