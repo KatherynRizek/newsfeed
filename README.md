@@ -12,4 +12,4 @@
 
 ## Credits
 * The Dockerfile was used from https://blog.hasura.io/the-ultimate-guide-to-writing-dockerfiles-for-go-web-apps-336efad7012c/
-* The app is being built from this tutorial: https://codegangsta.gitbooks.io/building-web-apps-with-go/content/index.html
+* The app is being built from this tutorial: https://freshman.tech/web-development-with-go/
