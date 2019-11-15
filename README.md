@@ -3,7 +3,7 @@
 ## Build the app
 * Make sure there are `glide.yaml` and `glide.lock` files present at the same level as the Dockerfile; they can be empty
 * Build the app with `docker build -t <name> .`
-* Go into the docker container with `docker run --rm -it -p 8080:8080 -v $(pwd):/go/src/app \ <name> bash`
+* Go into the docker container with `docker run --rm -it -p 8080:8080 -v $(pwd):/go/src/app \` and then `<name> bash`
 * When in the container, run the app with `go run <file>`. For example, if you would like to run the `main.go` file under the `src` directory, use the command `go run src/main.go`
 
 ## Dependencies
