@@ -1,4 +1,4 @@
-# markdown-generator
+# Newsfeed
 
 ## Build the app
 * Make sure there are `glide.yaml` and `glide.lock` files present at the same level as the Dockerfile; they can be empty
